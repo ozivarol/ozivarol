@@ -39,7 +39,9 @@
 <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" alt="intellij" width="37" height="37"/> </a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="30" height="30"/> </a> 
-<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a>
+<img src="https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png" alt="netlify" width="30" height="30"/>
+<img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png?hl=th" width="150" height="50"/>
 
 
 </p>
