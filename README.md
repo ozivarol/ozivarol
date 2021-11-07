@@ -12,6 +12,7 @@
 - 💬 Ask me about **Javascript, HTML-CSS, React and React-Native,Pyton and Node.js.**
 
 - 📫 How to reach me **oguzhanvaroll43@gmail.com**
+<img src="https://github.com/ezranbayantemur/ezranbayantemur/raw/master/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
