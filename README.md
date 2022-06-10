@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oguzhan</h1>
+<h1 align="center">Hi 👋, I'm Oguzhan.I am Software Engineer at Vodafone</h1>
 <h3 align="center">A Software Developer from Kütahya/Turkey</h3>
 
 
