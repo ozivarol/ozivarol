@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oguzhan.I am Software Engineer at Vodafone</h1>
-<h3 align="center">A Software Developer from Kütahya/Turkey</h3>
+<h1 align="center">Hi 👋, I'm Oguzhan.</h1>
+<h3 align="center">A Software Developer from Kütahya/Turkey.I am Software Engineer at Vodafone</h3>
 
 
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **oguzhan.varol@vodafone.com**
 <img src="https://github.com/ezranbayantemur/ezranbayantemur/raw/master/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width: 100%;">
-
+<img src="https://c.tenor.com/K3RaRhj9WhoAAAAC/vodafone-ready.gif" alt="react-native" width="200" height="200" align="right" style="max-width: 100%;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oguzhan-varol/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="oguzhnavarol" height="30" width="30" /></a>
