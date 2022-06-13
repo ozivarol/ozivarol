@@ -3,13 +3,13 @@
 
 
 
-- 🌱 I’m currently learning **React.js, React Native, Javascript,Node.js,Python etc.**
+- 🌱 I’m currently learning **React.js, React Native, Javascript,Node.js,Python,Vue.js etc.**
 
 
 
 - 📝 My personal page 
 
-- 💬 Ask me about **Javascript, HTML-CSS, React and React-Native,Python and Node.js.**
+- 💬 Ask me about **Javascript, HTML-CSS, React and React-Native,Python,Vue.js and Node.js.**
 
 - 📫 How to reach me **oguzhan.varol@vodafone.com**
 <img src="https://github.com/ezranbayantemur/ezranbayantemur/raw/master/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width: 100%;">
