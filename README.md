@@ -15,8 +15,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm a **Software Engineer** at **Vodafone**
-- 🌱 Currently deep-diving into **React.js · React Native · Node.js · Python · Vue.js · Spring Boot**
-- 💬 Ask me about **JavaScript, HTML/CSS, React, React Native, Python, Vue.js, Node.js, Java, Spring Boot**
+- 🌱 Currently deep-diving into **React.js · React Native · Next.js · Node.js · Python · Vue.js · Spring Boot**
+- 💬 Ask me about **JavaScript, HTML/CSS, React, React Native, Next.js, Python, Vue.js, Node.js, Java, Spring Boot**
 - 📫 Reach me at **oguzhanvaroll43@gmail.com**
 
 ---
@@ -28,11 +28,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
